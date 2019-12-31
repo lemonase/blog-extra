@@ -1,0 +1,3 @@
+[submodule "click-clack"]
+	path = click-clack
+	url = https://github.com/lemonase/click-clack.git
